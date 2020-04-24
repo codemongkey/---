@@ -1,0 +1,5 @@
+/* a */ b = c
+aa >= bb
+// aaa = bbb = cccc
+/* aaaa = */ bbbb   === cccc   " = dddd = " = eeee
+aaaaa /* bbbbb */      == ccccc /* != eeeee = */ === fffff

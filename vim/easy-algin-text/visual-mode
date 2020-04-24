@@ -1,0 +1,3 @@
+options = { :caching       => nil,
+            :versions      => 3,
+            "cache=blocks" => false }.merge(options)

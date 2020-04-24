@@ -1,0 +1,24 @@
+              a   =
+              a   = 1
+           bbbb   = 2
+        ccccccc   = 3
+ccccccccccccccc
+            ddd   = 4
+           eeee === eee       = eee   = eee = f
+            fff   = ggg      +=  gg &&= gg
+              g  != hhhhhhhh == 888
+              i  := 5
+              i  %= 5
+              i  *= 5
+              j  =~ 5
+              j  >= 5
+             aa  => 123
+             aa <<= 123
+             aa >>= 123
+            bbb  => 123
+              c  => 1233123
+              d  => 123
+         dddddd &&= 123
+         dddddd ||= 123
+         dddddd  /= 123
+             gg <=> ee

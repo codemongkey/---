@@ -1,0 +1,5 @@
+my_object
+    .method1()      .chain()
+    .second_method().call()
+    .third()        .call()
+    .method_4()     .execute()

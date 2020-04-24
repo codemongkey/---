@@ -1,0 +1,7 @@
+d = {
+    'apple': 1,   # apple
+    'banana': 2,  # banana
+    'cake': 3,  # cake
+    'daisy': 4,  # daisy
+    'eggplant': 5,  # eggplant
+}
